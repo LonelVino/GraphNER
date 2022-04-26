@@ -1,0 +1,12 @@
+data
+model/ltp_data_*
+
+# python
+__pycache__
+.ipynb_checkpoints
+.ipynb
+
+# Others
+.idea
+.metals
+.vscode
